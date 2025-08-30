@@ -81,9 +81,7 @@ The app uses the Iris dataset with the following columns:
 
 ## 🎯 Demo
 Demo video available on [LinkedIn](https://www.linkedin.com/posts/k-duraimurugan-4b83b2307_oasisinfobyte-internship-machinelearning-activity-7366536735276605441-iZ8V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4w30wBf7N4SVn0jOy8x7aXPJZdKpuYXAs).
-
-Demo video available on LinkedIn.  
-
+  
 ---
 
 ## 🎯 Outcome
